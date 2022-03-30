@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="AX" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="TAIDII_SAP" ExtVersion="1.65" Contdata="Marilyn H. Ganzon" Partner="AXXIS Consulting (S) Pte Ltd" DBType="Both" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="9.0" To="9.3" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="D:\Add-ons\Mindchamps\TAIDII_SAP Add-on\bin\x86\TAIDII_SAP.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="icon.png">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.b1s">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions />
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions />
+            </File>
+            <File FileName="System.Net.Http.Formatting.dll">
+              <Actions />
+            </File>
+            <File FileName="System.Net.Http.Formatting.xml">
+              <Actions />
+            </File>
+            <File FileName="System.Web.Http.dll">
+              <Actions />
+            </File>
+            <File FileName="System.Web.Http.xml">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.b1s">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.exe">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.pdb">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="icon.png">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.b1s">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions />
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions />
+            </File>
+            <File FileName="System.Net.Http.Formatting.dll">
+              <Actions />
+            </File>
+            <File FileName="System.Net.Http.Formatting.xml">
+              <Actions />
+            </File>
+            <File FileName="System.Web.Http.dll">
+              <Actions />
+            </File>
+            <File FileName="System.Web.Http.xml">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.b1s">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.exe">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.pdb">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="D:\Add-ons\Mindchamps\TAIDII_SAP Add-on\bin\x64\TAIDII_SAP.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="icon.png">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.b1s">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions />
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions />
+            </File>
+            <File FileName="System.Net.Http.Formatting.dll">
+              <Actions />
+            </File>
+            <File FileName="System.Net.Http.Formatting.xml">
+              <Actions />
+            </File>
+            <File FileName="System.Web.Http.dll">
+              <Actions />
+            </File>
+            <File FileName="System.Web.Http.xml">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.b1s">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.exe">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.pdb">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="icon.png">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.b1s">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions />
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions />
+            </File>
+            <File FileName="System.Net.Http.Formatting.dll">
+              <Actions />
+            </File>
+            <File FileName="System.Net.Http.Formatting.xml">
+              <Actions />
+            </File>
+            <File FileName="System.Web.Http.dll">
+              <Actions />
+            </File>
+            <File FileName="System.Web.Http.xml">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.b1s">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.exe">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.pdb">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>

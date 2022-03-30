@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="AXXIS" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="TAIDII_SAP Add-on" ExtVersion="1.65" Contdata="AXXIS Consulting (S) Pte Ltd" Partner="AXXIS Consulting (S) Pte Ltd" DBType="HANA" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="9.0" To="9.3" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository />
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="E:\WORKS\HANDHELD\AXXIS\Mindchamps\TAIDII_SAP Add-on\bin\x86\TAIDII_SAP.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="icon.png">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.b1s">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions />
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.b1s">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.exe">
+              <Actions />
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions>
+                <Register32bit />
+              </Actions>
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions>
+                <Register32bit />
+              </Actions>
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions>
+                <Register32bit />
+              </Actions>
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions>
+                <Register32bit />
+              </Actions>
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="icon.png">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.b1s">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions />
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.b1s">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.exe">
+              <Actions />
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions>
+                <Unregister32bit />
+              </Actions>
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions>
+                <Unregister32bit />
+              </Actions>
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions>
+                <Unregister32bit />
+              </Actions>
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions>
+                <Unregister32bit />
+              </Actions>
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="E:\WORKS\HANDHELD\AXXIS\Mindchamps\TAIDII_SAP Add-on\bin\x64\TAIDII_SAP.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="icon.png">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.b1s">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions />
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.b1s">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.exe">
+              <Actions />
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions>
+                <Register64bit />
+              </Actions>
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions>
+                <Register64bit />
+              </Actions>
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions>
+                <Register64bit />
+              </Actions>
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions>
+                <Register64bit />
+              </Actions>
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="icon.png">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.b1s">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions />
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.b1s">
+              <Actions />
+            </File>
+            <File FileName="TAIDII_SAP.exe">
+              <Actions />
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions>
+                <Unregister64bit />
+              </Actions>
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions>
+                <Unregister64bit />
+              </Actions>
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions>
+                <Unregister64bit />
+              </Actions>
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions>
+                <Unregister64bit />
+              </Actions>
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>
